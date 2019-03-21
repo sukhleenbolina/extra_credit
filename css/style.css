@@ -1,0 +1,15 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow;
+}
